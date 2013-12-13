@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoAndText</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">I at age 8. \nPicture created by a FBI Program that draws faces!</string>
+    <string name="my_face">My Face</string>
+
+</resources>
